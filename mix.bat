@@ -11,4 +11,4 @@ powercfg -setacvalueindex scheme_current sub_processor PERFINCTHRESHOLD 10
 powercfg -setacvalueindex scheme_current sub_processor PERFDECTHRESHOLD 8
 powercfg /setactive scheme_current
 echo Plano de Energia Aplicado com Sucesso!
-pause
+exit
